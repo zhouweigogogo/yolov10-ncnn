@@ -1,6 +1,6 @@
 # yolov10-ncnn
 
-## How build and run
+## How to build and run
 
 ``` shell
 mkdir build
